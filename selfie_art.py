@@ -34,7 +34,6 @@ class SelfieArtCore:
         self.img_size = 512
 
         self.device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
-        self.device = torch.device('cpu')
 
         # Face Parsing
         self.bisenet = BiSeNet(n_classes=19)
