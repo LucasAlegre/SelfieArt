@@ -5,7 +5,7 @@ SelfieArt: Interactive Multi-Style Transfer for Selfies and Videos with Soft Tra
 
 ## Install
 
-We recommend to use our conda environment:
+We recommend the use of our conda environment:
 ```
 conda env create -f environment.yml
 ```
@@ -33,7 +33,7 @@ Code for SelfieArt is built on top of:
 @InProceedings{AlegreOliveira2020,
   author    = {Alegre, Lucas N. and Oliveira, Manuel M.},
   title     = {SelfieArt: Interactive Multi-Style Transfer for Selfies and Videos with Soft Transitions},
-  booktitle = {Proceedings of the 2010 33rd SIBGRAPI Conference on Graphics, Patterns and Images},
+  booktitle = {Proceedings of the 2020 33rd SIBGRAPI Conference on Graphics, Patterns and Images},
   year      = {2020}
 }
 ```
